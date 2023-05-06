@@ -69,9 +69,9 @@ header .user{
 
 header .user img{
     margin:1rem 0;
-    height:18rem;
+    height:14rem;
     width:14rem;
-    border-radius: 18%;
+    border-radius: 100%;
     object-fit:center center cover;
     box-shadow: 0 0 0 1rem rgba(255,255,255,.2);
 }
